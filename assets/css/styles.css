@@ -202,15 +202,37 @@ hr {
 }
 
 @media screen and (max-width: 510px) {
+  .name-font {
+    font-size: 40px;
+  }
+
+  #about-me {
+    height: 80vh;
+  }
+
   .about-header {
     top: 10%;
+    font-size: 38px;
   }
 
   .about-content {
     top: 25%;
+    font-size: 20px;
+  }
+
+  .project {
+    height: 50vh;
+  }
+
+  .project-header {
+    font-size: 38px;
   }
 
   .project-box {
     top: 40%;
+  }
+
+  .carousel-caption {
+    position: unset;
   }
 }
