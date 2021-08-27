@@ -200,3 +200,17 @@ hr {
   width: 20px;
   color: indianred;
 }
+
+@media screen and (max-width: 510px) {
+  .about-header {
+    top: 10%;
+  }
+
+  .about-content {
+    top: 25%;
+  }
+
+  .project-box {
+    top: 40%;
+  }
+}
