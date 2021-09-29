@@ -4,10 +4,7 @@
 
 ## Description
 
-- User can retrieve information from database through GET method
-- User can add information to database through POST method
-- User can update information in database through PUT method
-- User can remove information from database through DELETE method
+- User can see/access deployed projects and navigate to LinkedIn/Github pages. Can contact me through email and also see my resume.
 
 ## Table of Contents
 
