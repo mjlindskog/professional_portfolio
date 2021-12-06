@@ -1,5 +1,5 @@
 function Redirect() {
-    window.location = "https://mjlindskog.github.io/react_portfolio/"
+    window.location.replace("https://mjlindskog.github.io/react_portfolio/")
 };
 
-Redirect();
+setTimeout("Redirect()", 1000);
